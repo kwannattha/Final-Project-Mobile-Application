@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340255240183",
+    "project_id": "final-project-40570",
+    "storage_bucket": "final-project-40570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340255240183:android:be229c2813eb869fd8c8f2",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.mobileapp.restrogirls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340255240183-mhtmdpvjqsb6afe1kmkjaij8hqqs35hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKRqGnJhafVOr6y55u4FjZeTVqpP-fXZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340255240183-mhtmdpvjqsb6afe1kmkjaij8hqqs35hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
